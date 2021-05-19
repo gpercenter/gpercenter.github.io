@@ -1,11 +1,11 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Global Politics and Ecnomics Research Center"
+email: gpercenter@gmail.com
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Nimesh Babu Oli
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -25,13 +25,13 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Nimesh Babu Oli
+    display_name: Nimesh
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    email: nimeshbabuoli@gmail.com
+    web: https://nimeshbabuoli.com.np/
+    twitter: https://twitter.com/nimeshbabuoli
+    description: "Co-founder of Global Politics and Economics Research Center"
   john:
     name: John
     display_name: John
@@ -43,9 +43,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/gpercenter/
+  facebook: https://www.facebook.com/gpercenter
+  twitter: https://twitter.com/gpercenter1
 
 # Plugins
 plugins: 
