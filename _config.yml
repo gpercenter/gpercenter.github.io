@@ -3,11 +3,11 @@ email: gpercenter@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: '/assets/images/logo.png'
-favicon: '/assets/images/favicon.ico'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 author: Nimesh Babu Oli
 paginate: 30
-disqus: 'demowebsite'
+disqus: 'disqus_QvrPxOWL3k'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -20,14 +20,14 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+# ganalytics: UA-113961478-1
 
 # Authors
 authors:
   sal:
     name: Nimesh Babu Oli
     display_name: Nimesh
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/nimesh.jpg'
     email: nimeshbabuoli@gmail.com
     web: https://nimeshbabuoli.com.np/
     twitter: https://twitter.com/nimeshbabuoli
