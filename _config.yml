@@ -3,7 +3,7 @@ email: gpercenter@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.svg'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Nimesh Babu Oli
 paginate: 30
