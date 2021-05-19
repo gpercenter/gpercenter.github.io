@@ -1,7 +1,7 @@
 title: "Global Politics and Ecnomics Research Center"
 email: gpercenter@gmail.com
 timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+baseurl: ""
 permalink: "/:title/"
 logo: 'gperc.org/assets/images/logo.png'
 favicon: 'gperc.org/assets/images/favicon.ico'
