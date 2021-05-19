@@ -3,8 +3,8 @@ email: gpercenter@gmail.com
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'gperc.org/assets/images/logo.png'
+favicon: 'gperc.org/assets/images/favicon.ico'
 author: Nimesh Babu Oli
 paginate: 30
 disqus: 'demowebsite'
